@@ -7,8 +7,8 @@
  - Assembly (MIPS)
  - PHP
  - SQL
- - HTML (Base Level)
- - CSS (Base Level)
+ - HTML
+ - CSS
  - JavaScript (Base Level)
   
  

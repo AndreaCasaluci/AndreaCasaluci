@@ -7,8 +7,9 @@
  - Assembly (MIPS)
  - PHP
  - SQL
+ - NoSQL (MongoDB)
  - HTML
  - CSS
- - JavaScript (Base Level)
+ - JavaScript/NodeJS
   
  

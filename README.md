@@ -10,6 +10,6 @@
  - NoSQL (MongoDB)
  - HTML
  - CSS
- - JavaScript/NodeJS
+ - JavaScript/Node.js
   
  

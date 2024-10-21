@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a ***Computer Engineering*** at **[Politecnico di Torino](https://www.polito.it/)**<br>🚀 I’m working as a **Backend Developer**<br>🐍 I’m currently learning **Python**
+🔭 I’m currently a ***Computer Engineering*** student at **[Politecnico di Torino](https://www.polito.it/)**<br>🚀 I’m working as a **Backend Developer**<br>🐍 I’m currently learning **Python**
 
 
 ## 🌐 Socials:
